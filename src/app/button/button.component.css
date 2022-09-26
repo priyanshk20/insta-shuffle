@@ -1,0 +1,13 @@
+.shuffle{
+    margin-top:40px;
+}
+
+button{
+    height: 35px;
+    width: 100px;
+    background-color: blue;
+    border:none;
+    font-size:15px;
+    color: white;
+    border-radius:5px;
+}

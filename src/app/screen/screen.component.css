@@ -1,0 +1,8 @@
+.screen{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 580px;
+    min-width: 350px;
+    border: 2px solid black;
+}
