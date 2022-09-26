@@ -1,5 +1,5 @@
 .shuffle{
-    margin-top:30px;
+    margin-top:20px;
 }
 
 button{
@@ -8,6 +8,7 @@ button{
     background-color: rgba(177, 177, 177, 0.726);
     border:none;
     font-size:15px;
+    text-align: center;
     color: white;
     border-radius:50px;
 }
