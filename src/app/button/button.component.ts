@@ -11,5 +11,5 @@ export class ButtonComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  buttonTitle = "Shuffle"
+  buttonTitle = "Shuffle Suggestions"
 }
