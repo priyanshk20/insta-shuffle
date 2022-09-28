@@ -12,4 +12,9 @@ export class ButtonComponent implements OnInit {
   ngOnInit(): void {
   }
   buttonTitle = "Shuffle Suggestions"
+
+  fetchBtn = () => {
+   const val1 = Math.floor(Math.random() * 100);
+   alert(val1);
+  }
 }
