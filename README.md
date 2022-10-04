@@ -1,5 +1,10 @@
 # Insta-Shuffle-Suggestions
 
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/52736997/193730015-052cf65b-c654-4b64-9799-056ae400fbc5.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
 ## Development server
